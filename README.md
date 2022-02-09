@@ -1,9 +1,10 @@
-# 👨🏻‍💻💻 &nbsp;João Fernando
+# 👨🏻‍💻 &nbsp;João Xavier
   - 🎓 Estudante de Sistemas de informação
   - 🖥️ Desenvolvedor C# DotNET Junior
   - ⚡ Entusiasta de Tecnologias Multi Plataforma
     - Flutter
     - Microsoft .NET 6 MAUI
+  - ✔️ Full Stack Angular + ASP.NET Core
 
 ## 💬 Redes Sociais 
 <div name="redessociais" align="center" style="display: flex; flex-wrap: wrap;">
@@ -27,19 +28,20 @@
       <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=692BC5">
 </div>
 
-  ## 🛠 &nbsp;Tecnologias 
+  ## 🛠 Tecnologias 
 
 <div align="center">
   <a href="https://github.com/joaojfmx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojfmx&layout=compact&langs_count=5&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojfmx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojfmx&layout=compact&langs_count=5&theme=city_lights"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojfmx&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
 </div>
-<br><br>
+  
+<br>
 
   <div align="center">
-    <img align="center" style="margin-right: 20px;" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;&nbsp;&nbsp;
-    <img align="center" style="margin-right: 20px;" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg">&nbsp;&nbsp;&nbsp;
-    <img align="center" style="margin-right: 20px;" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">&nbsp;&nbsp;&nbsp;
-    <img align="center" style="margin-right: 20px;"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img height="90" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;&nbsp;&nbsp;
+    <img height="90" width="120" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg">&nbsp;&nbsp;&nbsp;
+    <img height="90" width="120" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">&nbsp;&nbsp;&nbsp;
+    <img height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </div>
 
