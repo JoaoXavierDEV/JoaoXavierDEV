@@ -1,6 +1,9 @@
 # João Fernando
   - 🎓 Estudante de Sistemas de informação
   - 🖥️ Desenvolvedor C# DotNET Junior
+  - ⚡ Entusiasta de Tecnologias Multi Plataforma
+    - Flutter
+    - MAUI
 <div name="redessociais" style="display: flex; flex-wrap: wrap;">
 
   
