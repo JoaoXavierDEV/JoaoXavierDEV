@@ -1,9 +1,9 @@
 # 👨🏻‍💻 &nbsp;João Xavier
   - 🎓 Estudante de Sistemas de informação
-  - 🖥️ Desenvolvedor C# DotNET Junior
+  - 🖥️ Desenvolvedor C# .NET Junior
   - ⚡ Entusiasta de Tecnologias Multi Plataforma
-    - Flutter
-    - Microsoft .NET 6 MAUI
+    - <a href="https://blog.geekhunter.com.br/flutter/">Flutter</a>
+    - Microsoft <a href="https://docs.microsoft.com/pt-br/dotnet/maui/what-is-maui">.NET 6 MAUI</a>
   - ✔️ Full Stack Angular + ASP.NET Core
 
 ## 💬 Redes Sociais 
