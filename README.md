@@ -8,23 +8,23 @@
 
 ## 💬 Redes Sociais 
 <div name="redessociais" align="center" style="display: flex; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/joaofernandoxavier/" style="margin: 10px;" target="_blank">  
+  <a href="https://www.linkedin.com/in/joaofernandoxavier/" target="_blank">  
       <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b5e86" >
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href"mailto:joao_jfmx@outlook.com" style="margin: 10px;"target="_blank">
+  <a href"mailto:joao_jfmx@outlook.com" target="_blank">
       <img src="https://img.shields.io/badge/Outlook-0e70c8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0b5aa0">
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://www.instagram.com/joaoxavier.dev/" style="margin: 10px;"target="_blank">
+   <a href="https://www.instagram.com/joaoxavier.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4805F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=A03347">
    </a>
   &nbsp;&nbsp;&nbsp;
-  <a style="margin: 10px;" href="https://www.youtube.com/channel/UCmuDm5HN4u2LjsbIZ0Tbikw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=9c0507" target="_blank">
+  <a href="https://www.youtube.com/channel/UCmuDm5HN4u2LjsbIZ0Tbikw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=9c0507">
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://www.twitch.tv/joaoxavierdev" style="margin: 10px;"target="_blank">
+   <a href="https://www.twitch.tv/joaoxavierdev" target="_blank">
       <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=692BC5">
 </div>
 
