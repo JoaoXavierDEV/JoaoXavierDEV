@@ -32,8 +32,8 @@
 
 <div align="center">
   <a href="https://github.com/joaojfmx">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojfmx&layout=compact&langs_count=5&theme=city_lights&locale=pt-br&hide_border=true"/>
-  <img height="160em" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=joaojfmx&repo=Autonomo_app&theme=city_lights&show_owner=true&locale=pt-br&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojfmx&layout=compact&langs_count=5&theme=city_lights&locale=pt-br&hide_border=true"/>
+  <img height="150em" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=joaojfmx&repo=Autonomo_app&theme=city_lights&show_owner=true&locale=pt-br&hide_border=true"/>
   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojfmx&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojfmx&theme=city_lights"/>-->
 </div>
