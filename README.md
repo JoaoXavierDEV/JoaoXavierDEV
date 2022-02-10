@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b5e86" >
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href"mailto:joao_jfmx@outlook.com" target="_blank">
+  <a href="mailto:joao_jfmx@outlook.com" target="_blank">
       <img src="https://img.shields.io/badge/Outlook-0e70c8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0b5aa0">
   </a>
   &nbsp;&nbsp;&nbsp;
