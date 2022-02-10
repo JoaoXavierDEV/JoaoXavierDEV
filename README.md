@@ -50,15 +50,21 @@
     <img style="height: 40px;" src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
     <br>
     <img style="height: 40px;" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-    <img style="height: 40px;" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    <img style="height: 40px;" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
     <img style="height: 40px;" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <br>
     <img style="height: 40px;" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img style="height: 40px;" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3">
     <img style="height: 40px;" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img style="height: 40px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img style="height: 40px;" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+    <img style="height: 40px;" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img style="height: 40px;" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+    <img style="height: 40px;" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
   </div>
-  <!--
+ <!--
   <hr>
+
   <img style="height: 40px;" src="">
   <img style="height: 40px;" src="">
   <img style="height: 40px;" src="">
