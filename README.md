@@ -32,8 +32,10 @@
 
 <div align="center">
   <a href="https://github.com/joaojfmx">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojfmx&layout=compact&langs_count=5&theme=github_dark&locale=pt-br&hide_border=true"/>
-  <img height="150em" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=joaojfmx&repo=Autonomo_app&theme=github_dark&show_owner=true&locale=pt-br&hide_border=true&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojfmx&layout=compact&langs_count=5&theme=github_dark&locale=pt-br&hide_border=true&cache_seconds=1800"/>
+      </a>
+  <a href="https://github.com/joaojfmx/Autonomo_app">
+  <img height="150em" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=joaojfmx&repo=Autonomo_app&theme=github_dark&show_owner=true&locale=pt-br&hide_border=true&show_icons=true&cache_seconds=1800"/>
   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojfmx&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojfmx&theme=city_lights"/>-->
   </a>
