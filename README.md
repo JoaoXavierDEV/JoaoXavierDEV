@@ -3,7 +3,7 @@
   - 🖥️ Desenvolvedor C# .NET Junior
   - ⚡ Entusiasta de Tecnologias Multi Plataforma
     - <a href="https://blog.geekhunter.com.br/flutter/">Flutter</a>
-    - Microsoft <a href="https://docs.microsoft.com/pt-br/dotnet/maui/what-is-maui">.NET 6 MAUI</a>
+    - Microsoft <a href="https://docs.microsoft.com/pt-br/dotnet/maui/what-is-maui">.NET 8 MAUI</a>
   - ✔️ Full Stack Angular + ASP.NET Core
 
 ## 💬 Redes Sociais
