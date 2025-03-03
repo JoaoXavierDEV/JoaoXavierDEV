@@ -1,5 +1,5 @@
 # 👨🏻‍💻 &nbsp;João Xavier
-  - 🎓 Estudante de Sistemas de informação
+  - 🎓 Sistemas de informação
   - 🖥️ Desenvolvedor C# .NET Junior
   - ⚡ Entusiasta de Tecnologias Multi Plataforma
     - <a href="https://blog.geekhunter.com.br/flutter/">Flutter</a>
