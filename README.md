@@ -1,6 +1,7 @@
 # 👨🏻‍💻 &nbsp;João Xavier
   - 🖥️ Desenvolvedor De Software - Pleno
-  - 🎓 PUC-RIO - Engenharia De Software - 2025 🎓 Estácio - Sistemas de informação - 2023  
+  - 🎓 Pós Graduação - PUC-RIO - Engenharia De Software - 2025
+  - 🎓 Graduação - Estácio - Sistemas de informação - 2023  
   - ⚡ Entusiasta de Tecnologias Multi Plataforma
     - <a href="https://blog.geekhunter.com.br/flutter/">Flutter</a>
     - <a href="https://docs.microsoft.com/pt-br/dotnet/maui/what-is-maui">.NET 8 MAUI</a>
