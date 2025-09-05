@@ -1,9 +1,9 @@
 # 👨🏻‍💻 &nbsp;João Xavier
-  - 🎓 Sistemas de informação
-  - 🖥️ Desenvolvedor C# .NET Junior
+  - 🖥️ Desenvolvedor De Software - Pleno
+  - 🎓 PUC-RIO - Engenharia De Software - 2025 🎓 Estácio - Sistemas de informação - 2023  
   - ⚡ Entusiasta de Tecnologias Multi Plataforma
     - <a href="https://blog.geekhunter.com.br/flutter/">Flutter</a>
-    - Microsoft <a href="https://docs.microsoft.com/pt-br/dotnet/maui/what-is-maui">.NET 8 MAUI</a>
+    - <a href="https://docs.microsoft.com/pt-br/dotnet/maui/what-is-maui">.NET 8 MAUI</a>
   - ✔️ Full Stack Angular + ASP.NET Core
 
 ## 💬 Redes Sociais
